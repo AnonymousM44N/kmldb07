@@ -1,11 +1,11 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-<Placemark>
-<name>Letter A</name>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing>
- <coordinates>
+  <Placemark>
+    <name>Letter A</name>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
             -81.163939,43.037997
             -81.140808,43.041291
             -81.150000,43.050000
@@ -14,10 +14,9 @@ This XML file does not appear to have any style information associated with it. 
             -81.130000,43.041500
             -81.160000,43.041500
             -81.163939,43.037997
-</coordinates>
-
-</LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</Placemark>
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
 </kml>
